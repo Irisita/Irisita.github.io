@@ -1,7 +1,7 @@
 html,body{
 padding:0;
 margin:0;
-    background-image: url(../Images/hearts.jpg);
+    background-image: url(../Images/truck.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
@@ -10,7 +10,7 @@ margin:0;
 }
 
 .ProjectsHeader {
-    text-align:center;
+    text-align:left;
 padding-bottom:50px;
 }
 
@@ -42,10 +42,10 @@ padding-bottom:50px;
 .home_div{
     
     color: whitesmoke;
-    background-color: rgba(0,0,0,0.5);
-    width:600px;
+    background-color: rgba(0,0,0,0.8);
+    width:800px;
     height:auto;
     padding:30px;
     margin:auto;
-    text-align: center;
+    text-align: left;
 }
